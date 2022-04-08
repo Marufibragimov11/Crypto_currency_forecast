@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.banner {
+    height: 210px;
+    margin: 0px 0px 0px;
+    background-color: rgb(17, 17, 17);
+    border-radius: 0px;
+}
+
+.banner h2{
+    color: white;
+    padding-top: -10px;
+    margin-left: 2%;
+    display: inline-block;
+}
+
+.banner Img{
+    position: relative;
+    float: right;
+    right: 10px;
+    height: 75px;
+    top: -35px;
+}
